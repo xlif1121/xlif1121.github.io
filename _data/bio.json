@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Xinfei Li",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://xlif1121.github.io/images/molly.png",
+    "email": "xlif1121@hawaii.edu",
+    "phone": "808-123-4567",
+    "website": "https://xlif1121.github.io",
+    "summary": "I am studying Finance and Management information systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
+      "address": "123 Hawaii St",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "xlif1121",
+        "url": "http://github.com/xlif1121"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "xlif1121",
+        "url": "http://linkedin.com/in/xlif1121"
       },
       {
         "network": "twitter",
@@ -32,12 +32,12 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "xf._.fx",
+        "url": "http://instagram.com/xf._.fx"
       }
     ]
   },
-  "interests": [
+  "interests": [ 
     {
       "name": "internet of things",
       "keywords": [
