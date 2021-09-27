@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: E3: Performing WODs Technical Essay
-date: 2021-09-14
+date: 2021-09-26
 labels:
   - Essay
   - MIS
