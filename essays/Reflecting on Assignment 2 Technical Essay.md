@@ -13,7 +13,7 @@ labels:
 
 <p>The addition of those new content makes this online store web page look more like a real online store. In assignment 2, when customers want to purchase the products, they will be forced to jump to the login page. If they do not have an account, they can click the Register button on the login page. The registration button can take the customer to the registration page, and the registered account must meet the requirements to successfully register. Without a login account, customers cannot view the products and quantities that have been ordered. After successfully logging in to the account, the customer will be able to see the invoice page, When the customer completes the transaction, click the complete order button to jump to the thank you page, and the estimated delivery time of the product will be displayed.</p>
 
-
+Assignment 2 instructions link: <a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html">click this link for more.</a> 
 
 <b><p>What did you learn from this assignment?</p></b>
 
