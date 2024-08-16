@@ -3,7 +3,7 @@
     "name": "Xin Fei Li",
     "label": "Student",
     "picture": "https://xlif1121.github.io/images/xlif1121.jpg",
-    "email": "xlif1121@hawaii.edu",
+    "email": "x123@hawaii.edu",
     "phone": "808-123-4567",
     "website": "https://xlif1121.github.io",
     "summary": "I am studying for a B.B.A. in Finance and Management information systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2022.",
@@ -18,22 +18,22 @@
       {
         "network": "github",
         "username": "xlif1121",
-        "url": "http://github.com/xlif1121"
+        "url": "http://github.com"
       },
       {
         "network": "linkedin",
-        "username": "xlif1121",
-        "url": "http://linkedin.com/in/xlif1121"
+        "username": "x",
+        "url": "http://linkedin.com"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "m",
+        "url": "http://twitter.com"
       },
       {
         "network": "instagram",
-        "username": "xf._.fx",
-        "url": "http://instagram.com/xf._.fx"
+        "username": "x",
+        "url": "http://instagram.com"
       }
     ]
   },
@@ -84,14 +84,14 @@
       "studyType": "B.B.A.",
       "startDate": "2021-01-11",
       "endDate": "Present",
-      "gpa": "3.51",
+      "gpa": "0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "Jade Dynasty Seafood Restaurant ",
+      "company": "Jade Dynasty Seafood Restaurant",
       "position": "Hostess",
       "website": "",
       "startDate": "2018-04-28",
@@ -105,12 +105,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Greenroon Festival Hawaii",
-      "position": "Software Developer",
-      "startDate": "2018-09-01",
-      "summary": "Cleaned up beaches",
+      "organization": "",
+      "position": "",
+      "startDate": "",
+      "summary": "",
       "highlights": [
-        "Picked up the trash from the beaches"
+        ""
       ]
     }
   ],
