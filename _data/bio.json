@@ -14,12 +14,27 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
+"profiles": [
       {
         "network": "github",
         "username": "xlif1121",
         "url": "http://github.com/xlif1121"
       },
+      {
+        "network": "linkedin",
+        "username": "xlif1121",
+        "url": "http://linkedin.com/in/xlif1121"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "xli",
+        "url": "http://instagram.com"
+      }
     ]
   },
   "interests": [ 
