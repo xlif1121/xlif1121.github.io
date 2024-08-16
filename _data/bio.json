@@ -3,10 +3,10 @@
     "name": "Xin Fei Li",
     "label": "Student",
     "picture": "https://xlif1121.github.io/images/xlif1121.jpg",
-    "email": "123@hawaii.edu",
+    "email": "xlif1121@hawaii.edu",
     "phone": "808-123-4567",
     "website": "https://xlif1121.github.io",
-    "summary": "I am studying for a B.B.A. in Finance and Management information systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "summary": "I am studying for a B.B.A. in Finance and Management information systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "123 Hawaii St",
       "postalCode": "96822",
@@ -32,8 +32,8 @@
       },
       {
         "network": "instagram",
-        "username": "xli",
-        "url": "http://instagram.com"
+        "username": "xf._.fx",
+        "url": "http://instagram.com/xf._.fx"
       }
     ]
   },
@@ -84,15 +84,35 @@
       "studyType": "B.B.A.",
       "startDate": "2021-01-11",
       "endDate": "Present",
-      "gpa": "0",
+      "gpa": "3.51",
       "courses": [
       ]
     }
   ],
   "work": [
+    {
+      "company": "Jade Dynasty Seafood Restaurant ",
+      "position": "Hostess",
+      "website": "",
+      "startDate": "2018-04-28",
+      "endDate": "2020-03-01",
+      "summary": "",
+      "highlights": [
+        "Provide high-quality customer service to all customers",
+        "Answer incoming phone calls to the restaurant"
+      ]
+    }
   ],
   "volunteer": [
-   
+    {
+      "organization": "Greenroon Festival Hawaii",
+      "position": "Software Developer",
+      "startDate": "2018-09-01",
+      "summary": "Cleaned up beaches",
+      "highlights": [
+        "Picked up the trash from the beaches"
+      ]
+    }
   ],
 
   "references": [
